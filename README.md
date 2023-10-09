@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Descripton
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web application that displays an image gallery using React.js and Tailwind CSS. It fetches images from the Pixabay API and presents them in a visually appealing way.
+
+## Features
+- Display a grid of images fetched from the Pixabay API.
+- Filter and search for images based on user input.
 
 ## Available Scripts
 
